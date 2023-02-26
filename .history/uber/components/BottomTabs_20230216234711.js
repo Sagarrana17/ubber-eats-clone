@@ -1,0 +1,13 @@
+import { View, Text } from 'react-native'
+import React from 'react'
+
+export default function BottomTabs() {
+  return (
+    <View>
+      <Text>BottomTabs</Text>
+      <Text>BottomTabs</Text>
+      <Text>BottomTabs</Text>
+      <Text>BottomTabs</Text>
+    </View>
+  )
+}
